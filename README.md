@@ -27,7 +27,7 @@
 
 **PPUCKPEDIA** - https://twitter.com/PuckPedia - The Ultimate Source for Hockey Fans & Pro's, including NHL Salary Cap info, Basic & Advanced Stats, History & News Feeds
 
-**JOKKE NEVALAINEN - https://twitter.com/JokkeNevalainen - Amateur Scout for the Carolina Hurricanes
+**JOKKE NEVALAINEN** - https://twitter.com/JokkeNevalainen - Amateur Scout for the Carolina Hurricanes
 
 **GTANALYTICS** - https://twitter.com/GTAnalytics_- A twitter account focusing on advanced hockey, NFL and UFC data analytics
 
