@@ -37,4 +37,4 @@
 
 **SEAN TUERNEY** - https://twitter.com/ChartingHockey -  https://www.chartinghockey.ca/
 
-**EVOLVING HOCKEY** - https://twitter.com/EvolvingHockey
+**EVOLVING HOCKEY** - https://twitter.com/EvolvingHockey - advanced NHL statistics
