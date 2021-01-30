@@ -1,41 +1,40 @@
 # Interesting Twitter accounts
 
-https://twitter.com/HockeyStatsCZ
+**ANDY & RONO** - https://twitter.com/HockeyStatsCZ - Creators of NHL player card
 
-https://twitter.com/xpmalina
+**PETR MALINA** - https://twitter.com/xpmalina - data analysis in hockey/floorball
 
-https://twitter.com/MeghanChayka
+**HOCKEY STAT CARDS** - https://twitter.com/hockeystatcards - A bot that tweets out post-game stat cards from http://hockeystatcards.com for all NHL teams. Created by @cepvi0
 
-https://twitter.com/hockeystatcards
+**COLE PALMER** - https://twitter.com/cepvi0 - Creator of @hockeystatcards
 
-https://twitter.com/cepvi0
+**DAVID SUMPTER** - https://twitter.com/Soccermatics - Professor of Applied Maths, Football and Writing Books - http://www.david-sumpter.com/
 
-https://twitter.com/Soccermatics
+**LAURIE SHAW** - https://twitter.com/EightyFivePoint - Lecturer and Research Scientist @Harvard
 
-https://twitter.com/EightyFivePoint
 
-https://twitter.com/StatsBomb
+**STATS BOMB** - https://twitter.com/StatsBomb - Football Data & Analytics
 
-https://twitter.com/clubelo
+**CLUB ELO** - https://twitter.com/clubelo - Lars S @chiefler's European Football Club Ratings using the Elo system
 
-https://twitter.com/the_spearman
+**WILLIAM SPEARMAN** - https://twitter.com/the_spearman - Football analytics
 
-https://twitter.com/petermckeever
+**PETER MCKEEVER** - https://twitter.com/petermckeever - Data analyst at @StatsPerform
 
-https://twitter.com/FC_Python
+**MICAH BLAKE MCCURDY** - https://twitter.com/IneffectiveMath - Mathematician and freelance data visualization with focus on NHL. micah@hockeyviz.com
 
-https://twitter.com/IneffectiveMath
+**HOCKEY GRAPHS** - https://twitter.com/HockeyGraphs - Visualizing and analyzing hockey
 
-https://twitter.com/EvolvingHockey
+**PPUCKPEDIA** - https://twitter.com/PuckPedia - The Ultimate Source for Hockey Fans & Pro's, including NHL Salary Cap info, Basic & Advanced Stats, History & News Feeds
 
-https://twitter.com/HockeyGraphs
+**JOKKE NEVALAINEN - https://twitter.com/JokkeNevalainen - Amateur Scout for the Carolina Hurricanes
 
-https://twitter.com/PuckPedia
+**GTANALYTICS** - https://twitter.com/GTAnalytics_- A twitter account focusing on advanced hockey, NFL and UFC data analytics
 
-https://twitter.com/DomGalamini
+**STATHLETES** - https://twitter.com/HockeyAnalytics - hockey analytics
 
-https://twitter.com/JokkeNevalainen
+**MIKAEL NAHABEDIAN** - https://twitter.com/hunterofstats -  Advanced Stats & Scouting for McGill Martlets Hockey
 
-https://twitter.com/GTAnalytics_
+**SEAN TUERNEY** - https://twitter.com/ChartingHockey -  https://www.chartinghockey.ca/
 
-https://twitter.com/HockeyAnalytics
+**EVOLVING HOCKEY** - https://twitter.com/EvolvingHockey
